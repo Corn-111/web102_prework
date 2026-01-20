@@ -1,8 +1,8 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Game picker *
 
-Submitted by: **Your Name Here**
+Submitted by: **Cornell Adams **
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Game picker ** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **X** hours spent in total
 
@@ -26,6 +26,8 @@ Here's a walkthrough of implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
+![127 0 0 1_5500_index html-GoogleChrome2026-01-2011-44-48-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ce9f9d77-2d8b-4dea-b765-33fcdc95274b)
+
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -34,11 +36,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The math is what killed me the summary and total parts got on my nerves I generally forgot how to code in javascript, HTML, and CSS so it took a lot of research and After this forgot everyhting again but it was cool, trying to get it on github was a pain though I never used it and I was super confused but other than that I liked it hopefully I did everything correctly 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2026] [Cornell Adams ]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
